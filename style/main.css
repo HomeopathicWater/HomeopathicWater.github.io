@@ -7,10 +7,21 @@ body {
     
 }
 
+div {
+    margin: 0.5em;
+}
 
 .header {
     background-color: green;
     background:url('../img/Texture_Water_Drop_by_eRiQ.jpg'); /* http://eriq.deviantart.com/art/Texture-Water-Drop-17205240 */
     color:white;
+    margin: 0;
     padding:2em;
+}
+
+.menuItem {
+    font-size:150%;
+    font-weight: 700;
+    text-align:center;
+    width:25%;
 }
