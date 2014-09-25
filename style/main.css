@@ -1,0 +1,11 @@
+body {
+    background-color:white;
+    font-family: Lato;
+}
+
+
+.header {
+    background-color: black;
+    color:white;
+    padding:2em;
+}
